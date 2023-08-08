@@ -1,0 +1,36 @@
+body {
+  background-color: aqua;
+}
+h1 {
+  background-color: brown;
+  color: aliceblue;
+}
+p {
+  background-color: chartreuse;
+}
+h2 {
+  background-color: coral;
+  color: greenyellow;
+}
+.color {
+  background-color: red;
+  color: lightcoral;
+}
+ol {
+  background-color: skyblue;
+}
+.one {
+  color: gold;
+}
+.two {
+  color: salmon;
+}
+.three {
+  color: yellow;
+}
+.for {
+  color: hotpink;
+}
+.five {
+  color: peru;
+}
